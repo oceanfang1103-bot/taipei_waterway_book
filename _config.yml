@@ -1,0 +1,21 @@
+title: "台北古水路與現代都市淹水潛勢研究"
+author: "Ocean Fang"
+
+execute:
+  execute_notebooks: "off"
+
+launch_buttons:
+  thebe: false
+
+exclude_patterns:
+  - "venv/**"
+  - ".venv/**"
+  - "_build/**"
+
+sphinx:
+  config:
+    html_extra_path: ["images"]
+
+html:
+  use_issues_button: false
+  use_repository_button: false
