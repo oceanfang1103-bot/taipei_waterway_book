@@ -1,24 +1,28 @@
-# 第二章 文獻回顧：歷史水脈與空間理論
+# Chapter 2 — Literature Review: Historic Water Networks and Spatial Theory
 
-> **「都市的景觀就像一張羊皮紙（Palimpsest）——雖然舊的文字（古水道）被擦掉了，並蓋上了新的文字（瀝青道路），但舊文字所留下的痕跡（微地形），依然影響著現代都市的空間運作。」**
-
----
-
-### 2.1 台北盆地水文演進史與水圳暗渠化歷程
-台北盆地原為多水系的濕地與沖積平原。清領時期，為了滿足大規模農業墾拓之灌溉需求，先民興建了包含 **瑠公圳、霧裡薛圳** 在內龐大的水圳網絡，成為塑形台北盆地早期聚落分佈與空間紋理的核心基盤。
-
-然而，進入日治時期與二戰後的急速都市化階段，台北市實施大規模都市計劃，水圳的農業灌溉功能逐漸被都市發展需求所取代：
-- **道路拓寬與開發**：為了改善環境衛生與因應土地開發，大量水圳歷經了**「加蓋」、「填平」與「暗渠化」**的歷程。
-- **形態轉化**：古水路轉化為現代都市街道（如新生南路、復興南路）、建築後巷，或隱沒於地下雨水下水道系統。
-
-此一過程雖在表面上抹去了水圳的地表形態，使水系成為「隱形的城市水脈」，但其地底溝渠結構與兩側相對低窪的地形梯度，依然頑強地留存在都市紋理之中。
+> **“The urban landscape resembles a palimpsest: earlier writing—the historic waterways—may be erased and replaced by asphalt roads, yet its traces in the microtopography continue to influence how the modern city functions.”**
 
 ---
 
-### 2.2 核心理論架構：地貌記憶與路徑依賴
+### 2.1 Hydrological Change in the Taipei Basin and the Culverting of Irrigation Canals
 
-#### 1. 地貌記憶 (Landscape Memory)
-指出天然地貌（如古河道、天然漥地、微地形坡度）在經過人類工程長期覆蓋與重塑後，其原始的水理物理特性依然留存於土地底層 。當面對超越人造工程設計標準的極端降雨時，自然水理會重新回歸並顯現其原始流脈 。
+The Taipei Basin was originally a wetland and alluvial plain crossed by numerous waterways. During the Qing period, settlers constructed an extensive irrigation network—including the **Liugong Canal (瑠公圳)** and **Wulixue Canal (霧裡薛圳)**—to support large-scale agricultural development. This network became an important framework shaping early settlement patterns and the spatial structure of the basin.
 
-#### 2. 社會水文路徑依賴 (Socio-hydrological Path Dependency)
-描述人類社會透過工程決策（如水圳加蓋變道路）改變了地表水文路徑，但這種歷史決策同時也將都市的「空間脆弱性」鎖定於特定的歷史水路廊道上 。現代都市將水圳轉化為道路後，路面與兩側建築的微地形依然向古水路傾斜，導致地表逕流在暴雨期間必然選擇依循歷史水路匯集 。
+During the Japanese colonial period and the rapid urbanization that followed the Second World War, large-scale urban planning gradually displaced the canals’ agricultural function:
+
+- **Road expansion and development:** To improve sanitation and accommodate urban development, many canals were **covered, filled, or converted into underground culverts**.
+- **Changes in urban form:** Former waterways became modern streets, including Xinsheng South Road and Fuxing South Road; others became rear alleys or were incorporated into underground stormwater systems.
+
+Although these changes removed the canals’ visible surface form and turned them into an “invisible urban water network,” buried channel structures and relatively low-lying gradients along their former banks may remain embedded in the urban landscape.
+
+---
+
+### 2.2 Theoretical Framework: Landscape Memory and Path Dependence
+
+#### 1. Landscape Memory
+
+Landscape memory proposes that the physical properties of earlier landforms—such as abandoned channels, natural depressions, and microtopographic slopes—can persist after long periods of engineering, covering, and reshaping. When extreme rainfall exceeds the design capacity of constructed drainage systems, these inherited hydrological pathways may become visible again through the movement and accumulation of surface water.
+
+#### 2. Socio-hydrological Path Dependence
+
+Socio-hydrological path dependence describes how engineering decisions alter surface-water pathways while simultaneously locking particular forms of spatial vulnerability into historic corridors. When a canal is converted into a road, the microtopography of the road and adjacent buildings may still slope toward the former channel. During intense rainfall, this inherited geometry can direct surface runoff toward the historic waterway corridor.

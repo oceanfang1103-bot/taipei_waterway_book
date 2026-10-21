@@ -1,5 +1,9 @@
-# 台北古水路與現代都市淹水潛勢研究
+# Historic Waterways and Urban Flood Susceptibility in Taipei
 
-歡迎來到本專題的網站。本研究結合 GIS 空間分析與地貌記憶，探討台北市暗渠化古水路與現代都市積淹水潛勢點位之關聯。
+Welcome to this bilingual research website.
 
-請透過左側目錄選單瀏覽各章節內容。
+This study combines GIS-based spatial analysis with the concept of landscape memory to examine the relationship between Taipei's culverted historic waterways and present-day urban flood susceptibility.
+
+Use the navigation menu to explore each chapter. The original Chinese edition remains available under **中文版**.
+
+> **Translation note:** The English edition is an editorial translation of the original Chinese research text. A terminology glossary and items requiring subject-matter review are documented in `TRANSLATION_NOTES.md`.

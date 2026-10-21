@@ -1,38 +1,43 @@
- # 第一章 緒論：水泥地表下的暗湧
+# Chapter 1 — Introduction: Hidden Currents Beneath the Concrete
 
-> **「水往低處流的自然物理規律，並未隨著高度都市化與地表水泥化而徹底消失。」**
-
----
-
-### 1.1 都市中的熟悉困境：永遠積水的巷弄
-每當極端暴雨襲擊台北市，新聞媒體與市府通報中總會出現熟悉的淹水熱點——某些特定的巷弄道路，似乎無論排水溝如何清淤、水利管線如何擴建，只要暴雨一來依然定期積水。
-
-### 1.2 傳統治理思維的瓶頸
-傳統水利工程思維習慣將積水歸咎於單純的「工程與管線問題」：
-- 抽水站運轉容量是否已達極限？
-- 排水溝渠是否清淤不夠徹底？
-- 地下下水道管線是否太細宣洩不及？
-
-然而，這種高度依賴硬體（**灰色基礎設施**）的治理觀念，似乎忽視了都市地表下長久積澱的自然水文演進與微地形構造。都市的水流並不只是順著人工管線走，更會順著自然的「地勢低窪之處」流動。
+> **“The physical principle that water flows downhill has not disappeared with intensive urbanization and the paving of the ground surface.”**
 
 ---
 
-### 1.3 地貌具有記憶 (Landscape Memory)
-在自然地理與人文地理學中，有一個重要的概念名為「地貌具有記憶」（Landscape Memory）。
+### 1.1 A Familiar Urban Problem: Streets That Flood Again and Again
 
-台北盆地早期布滿了發達的農業灌溉水網（如清代開鑿的瑠公圳、霧裡薛圳、大坪林圳及其支線）。日治時期至今，隨著土地利用變遷與都市擴張，這些昔日滋養農田的水圳陸續經歷了加蓋、填平與暗渠化，轉化為現代都市中的復興南路、新生南路，或無數條隱密的小巷弄。
+Whenever an extreme rainstorm strikes Taipei, familiar flooding hot spots reappear in news reports and municipal bulletins. Certain streets and alleys seem to accumulate water whenever heavy rain arrives, regardless of how often drains are cleared or drainage infrastructure is expanded.
 
-> **隱形的微地形溝谷**  
-> 雖然地表覆蓋了水泥道路與大樓，但昔日水圳所掏刷出來的「相對低窪微地形」卻依然隱沒在地表之下，扮演著周邊相對低窪的「天然集水槽」角色。當短時強降雨襲擊且地下管網宣洩不及時，地表積水就會「憑著記憶」，重新順著這些隱形的低窪古水路匯集。
+### 1.2 Limits of the Conventional Engineering Approach
+
+Conventional hydraulic-engineering practice often treats surface flooding primarily as an infrastructure problem:
+
+- Have pumping stations reached their operating capacity?
+- Have drainage channels been cleared thoroughly enough?
+- Are underground stormwater pipes too small to discharge runoff in time?
+
+This strong dependence on engineered—or **grey—infrastructure**, however, can overlook the long-term hydrological evolution and microtopography preserved beneath the city. Urban water does not move only through constructed pipes; it also follows naturally low-lying terrain.
 
 ---
 
-### 1.4 研究問題與數據亮點
-現代都市積水不僅是工程管線問題，更是「地貌記憶」與「微地形窪地」疊加產生的自然水理展現。本研究結合 **地理資訊系統（GIS）** 空間統計分析，分析台北市 **3,022 筆淹水潛勢點**，驗證「地貌記憶」是否存在：
+### 1.3 Landscape Memory
 
-| 核心檢定指標 | 實證分析結果 | 地學意涵 |
+Physical and human geography use the concept of **landscape memory** to describe the persistence of earlier environmental forms and processes.
+
+The Taipei Basin once contained an extensive agricultural irrigation network, including the Liugong Canal (瑠公圳), Wulixue Canal (霧裡薛圳), Dapinglin Canal (大坪林圳), and their branches. From the Japanese colonial period onward, changing land use and urban expansion led many of these waterways to be covered, filled, or converted into underground culverts. Their former routes became present-day roads—including Fuxing South Road and Xinsheng South Road—or narrow alleys embedded in the urban fabric.
+
+> **Invisible microtopographic valleys**  
+> Although roads and buildings now cover the surface, the relatively low-lying landforms associated with the former canals may remain beneath the city and act as natural collection corridors. When intense short-duration rainfall exceeds the capacity of the underground drainage network, surface water can follow these concealed depressions and gather again along the routes of historic waterways.
+
+---
+
+### 1.4 Research Question and Key Results
+
+Urban surface flooding is not solely a pipe-capacity problem. It may also reflect the interaction of landscape memory and microtopographic depressions. This study uses **geographic information systems (GIS)** and spatial statistical analysis to examine **3,022 flood-area centroids derived from polygons mapped as flood-prone or previously inundated** in Taipei and test whether a measurable pattern of landscape memory exists.
+
+| Core test | Empirical result | Geographic interpretation |
 | :--- | :--- | :--- |
-| **標準化空間密度** | 0–10m 達 **14.90 點/m**，遞減至 60–120m 的 **10.83 點/m** | 證實離古水道越近，淹水密度顯著越高（距離衰減效應）。 |
-| **蒙地卡羅隨機抽樣** | 實測中位數 **125.72m**，遠低於隨機期望值 **203.68m** ($p < 0.001$) | 證實淹水點向古水路緊貼靠攏非屬巧合，具有顯著空間吸引力。 |
+| **Band-width-normalized point count** | The 0–10 m band reaches **14.90 points/m**, decreasing to **10.83 points/m** in the 60–120 m band | The number of centroids per metre of band width generally decreases with distance from historic waterways. This is an exploratory distance-decay indicator, not an areal density. |
+| **Monte Carlo randomization** | The observed median distance is **125.72 m**, substantially lower than the random expectation of **203.68 m** (one-sided Monte Carlo $p \approx 0.001$) | The proximity of the flood-area centroids to historic waterways is unlikely to be explained by the specified random model alone. |
 
-本研究旨在證實歷史水圳遺留的微地形影響力，為現代都市防災與韌性城市轉型提供新的思考方向。
+The study investigates how microtopography inherited from historic irrigation systems may continue to influence the city and considers the implications for disaster-risk reduction and urban resilience.

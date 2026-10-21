@@ -1,59 +1,63 @@
-# 第五章 結論：在水泥地表下召喚地貌的記憶
+# Chapter 5 — Conclusion: Recovering Landscape Memory Beneath the Concrete
 
-> **「當極端氣候帶來的暴雨頻繁挑戰現代工程極限時，淹水或許正是大自然與都市歷史透過微地形，在地表上對人類發出的一次次提醒。」**
-
----
-
-### 5.1 古水道與微地形的雙向因果機制 (Bidirectional Causality)
-
-本研究使用的淹水潛勢數據已高度隱含並反映了地表微地形特徵。從更深層的地學意涵來看，古水道與微地形之間存在著雙向因果關係：
-
-#### 1. 先天地形導向 (Pre-existing Topographical Constraint)
-清代與日治時期先民開鑿水圳（如瑠公圳水系）時，為了借重力使水往低處流（Gravity Flow），形成最佳輸水效率，往往順應自然地勢，優先選擇沿著台北盆地相對低窪之天然谷道、微凹地或舊河道建造水道。
-
-#### 2. 後天地貌形塑 (Anthropogenic Geomorphological Shaping)
-長達數十年至上百年的水圳營運與水流沖刷，進一步塑造並穩固了溝渠及其周邊地表之窪陷特徵。即便近代因都市化進程將水圳進行封頂暗渠化或填平改建為道路，該帶狀空間在整體都市地貌中，仍留下了難以僅憑人工填土即完全消弭之微地貌凹槽（Micro-topographic Depression）。
-
-綜上所述，無論是「因低窪而築水道」抑或是「因水道而持續處於低窪」，古水道軸線均高度疊合了台北盆地地表逕流自然匯集的物理路徑。這完美解釋了為何在現代高強度都市化與水泥工法覆蓋下，古水道空間軸線依然對現代都市積淹水展現出顯著的空間吸引力。
+> **“As extreme rainfall increasingly challenges the limits of modern infrastructure, flooding may be one way in which nature and urban history repeatedly make themselves visible through microtopography.”**
 
 ---
 
-### 5.2 實證總結與地貌記憶 (Landscape Memory)
+### 5.1 Historic Waterways and Microtopography: Bidirectional Causality
 
-本研究結合地理資訊系統（GIS）的空間分析與人文地理學視野，嘗試透過台北市 3,022 筆積淹水潛勢點位，探討隱沒於都市地表下的歷史水圳紋理與當代淹水現象之間的關係。
+The flood-susceptibility data used in this study already encode many characteristics of surface microtopography. At a deeper geomorphological level, the relationship between historic waterways and microtopography may operate in both directions.
 
-實證結果顯示：
-- **距離衰減效應**：在經過空間範圍寬度的標準化換算後，積淹水點的密度隨著離古水道距離的增加呈現出顯著遞減趨勢（0–10m 達 14.90 點/m）。
-- **空間吸引力顯著性**：在控制了平原環境背景的限制性蒙地卡羅隨機抽樣中，真實淹水點緊貼古水道的中位數距離（125.72 公尺）遠遠低於完全隨機分布的期待值（203.68 公尺，$p < 0.001$）。
+#### 1. Pre-existing Topographical Constraint
 
-這些數據清楚佐證了**「地貌具有記憶」（Landscape Memory）**的理論假說——即使昔日的瑠公圳、霧裡薛圳已在地表消失並被覆上瀝青道路，它們在歲月中沖刷出的微地形結構，可能仍在極端暴雨來臨時默默主導著水流方向。
+When irrigation canals such as the Liugong system were constructed during the Qing and Japanese colonial periods, builders relied on gravity to move water efficiently. Canal routes therefore tended to follow relatively low natural valleys, shallow depressions, or abandoned channels in the Taipei Basin.
 
----
+#### 2. Anthropogenic Geomorphological Shaping
 
-### 5.3 研究局限與都市治理的範式轉型
+Decades or centuries of canal operation and water erosion may have further shaped and reinforced depressions in and around the channels. Even after canals were covered, culverted, or filled and converted into roads, these linear spaces may retain microtopographic depressions that cannot be completely erased by artificial fill.
 
-然而，這份研究的目的，並非意圖將台北市複雜的淹水問題過度簡化為「古水道決定論」。我們必須開誠佈公地指出本研究的局限性：都市是一個由自然地質、歷史墾拓、現代工程與社會經濟高度糾纏的複雜有機體。
-
-- 古水道的微地形充其量只是地表逕流匯集的一個自然因素。
-- 現實中的淹水更是極端氣候下的短時強降雨、都市高覆蓋率的不透水層、地下雨水管網容量極限、以及各地區動態發展差異等多元因素共同作用的結果。
-
-這份研究真正的價值與關懷，在於提出一種**「不一樣的觀察視角」**。在長期以硬體排水管線擴建、水利工程排除為主流的灰色基礎設施治理範式之外，我們嘗試從人文地理學的視角，重新帶領讀者看見土地的歷史與地貌的紋理。當極端氣候帶來的暴雨頻繁挑戰現代工程的極限時，淹水或許正是大自然與都市歷史透過微地形，在地表上對人類發出的一次次提醒。
+Whether canals were constructed because the land was already low, or prolonged canal flow helped maintain low-lying corridors, the historic axes overlap physical pathways along which runoff naturally gathers in the Taipei Basin. This bidirectional relationship helps explain why historic-waterway corridors may remain spatially associated with modern urban flood susceptibility despite intensive redevelopment.
 
 ---
 
-### 5.4 參考文獻與資料圖層來源 (References & Data Sources)
+### 5.2 Empirical Findings and Landscape Memory
 
-#### 參考文獻 (References)
-1. **Meinig, D. W. (1979)**. The beholding eye: Ten versions of the same scene. In D. W. Meinig (Ed.), *The Interpretation of Ordinary Landscapes: Geographical Essays* (pp. 33–48). Oxford University Press. *(提出景觀作為「羊皮紙 (Palimpsest)」層覆概念之核心出處)*
-2. **Sauer, C. O. (1925)**. The morphology of landscape. *University of California Publications in Geography*, 2(2), 19–53. *(文化景觀疊加之地理學奠基文獻)*
-3. **台北市政府工務局水利工程處**。《台北市雨水下水道總體規劃報告》。台北市：台北市政府。
-4. **瑠公農田水利會**。《瑠公圳沿革與台北盆地水利發展史》。台北市：瑠公農田水利會。
+Combining GIS-based spatial analysis with a human-geographical perspective, this study examines 3,022 centroids derived from polygons mapped as flood-prone or previously inundated in Taipei to investigate the relationship between the city’s concealed irrigation network and present-day flooding patterns.
 
-#### 使用地理空間圖層資料 (GIS Layers & Data Sources)
+The principal findings are:
 
-| 圖層名稱 (Layer Name) | 資料類型 (Type) | 資料來源 (Source) | 處理方式 (Processing) |
+- **Distance-decay pattern:** After normalizing centroid counts by distance-band width, the exploratory measure generally declines with increasing distance from historic waterways, reaching 14.90 centroids per metre of band width in the 0–10 m band.
+- **Significant spatial proximity:** In the plain-constrained Monte Carlo simulation, the observed median distance to historic waterways (125.72 m) is substantially lower than the random expectation (203.68 m; $p < 0.001$).
+
+These results support the hypothesis of **landscape memory**: although the Liugong and Wulixue canals have disappeared from the surface beneath asphalt roads, associated microtopographic structures may continue to influence the direction of water during extreme rainfall.
+
+---
+
+### 5.3 Limitations and a Shift in Urban-Governance Perspective
+
+The study does not seek to reduce Taipei’s complex flooding problem to “historic-waterway determinism.” A city is a complex system in which natural geology, historical land development, modern engineering, and socioeconomic processes are closely entangled.
+
+- Historic-waterway microtopography is only one natural factor influencing the collection of surface runoff.
+- Actual flooding reflects the combined effects of intense short-duration rainfall, extensive impervious surfaces, stormwater-network capacity, local topography, and uneven patterns of urban development.
+
+The main contribution of this study is a **different observational perspective**. Alongside a governance paradigm centered on expanding pipes and other grey infrastructure, human geography can draw attention to the history of the land and the inherited texture of its terrain. As climate extremes increasingly challenge modern engineering systems, floodwater may reveal landscape structures that the visible city has obscured.
+
+---
+
+### 5.4 References and Data Sources
+
+#### References
+
+1. **Meinig, D. W. (1979).** The beholding eye: Ten versions of the same scene. In D. W. Meinig (Ed.), *The Interpretation of Ordinary Landscapes: Geographical Essays* (pp. 33–48). Oxford University Press. *(Cited as a conceptual source for reading landscapes as layered texts or palimpsests.)*
+2. **Sauer, C. O. (1925).** The morphology of landscape. *University of California Publications in Geography*, 2(2), 19–53. *(A foundational work on the cultural landscape.)*
+3. **Hydraulic Engineering Office, Public Works Department, Taipei City Government.** *Taipei City Stormwater Sewer Master Plan* [Chinese].
+4. **Liugong Irrigation Association.** *History of the Liugong Canal and Water-Management Development in the Taipei Basin* [Chinese].
+
+#### GIS layers and data sources
+
+| Layer | Type | Source | Processing |
 | :--- | :--- | :--- | :--- |
-| **台北市淹水潛勢圖層** | 面資料 (Polygon) | 經濟部水利署 / 台北市政府 (24hr/650mm 情境) | GIS 幾何校正、計算面中心點 (Centroid)，萃取 3,022 筆淹水點位 |
-| **清代與日治古水路向量圖層** | 線資料 (Line) | 臺灣歷史百年地圖 (日治《臺灣堡圖》、1939《瑠公圳水利組合區域圖》) | 手動向量化歷史圖資，復原瑠公圳、霧裡薛圳、大坪林幹支線 |
-| **水圳渠道實體幅寬模型** | 面資料 (Buffer) | 本研究模擬產製 | 依據歷史文獻模擬幹線 (5m)、支線 (2m) 及小給水路 (1m) 之實體幅寬 |
-| **行政區與地形底圖** | 面/網格 (Raster) | 內政部 TGOS 地理資訊應用服務平台 | 限制性蒙地卡羅抽樣邊界遮罩、剔除坡度 >30% 之山坡地區域 |
+| **Taipei flood-susceptibility layer** | Polygon | Water Resources Agency / Taipei City Government; 650 mm in 24 hours scenario | Geometric correction and polygon-centroid extraction, producing 3,022 flood-area centroids; the source polygons represent mapped flood-prone or previously inundated areas |
+| **Qing-period and Japanese-period historic waterways** | Line | Taiwan Centurial Historical Map; *Taiwan Fortress Map* and the 1939 *Map of the Liugong Irrigation Association District* | Manual vectorization and reconstruction of the Liugong, Wulixue, and Dapinglin main canals and branches |
+| **Physical channel-width model** | Buffer polygon | Produced for this study | Widths modeled from historical sources: 5 m for main canals, 2 m for branches, and 1 m for minor distribution channels |
+| **Administrative boundaries and terrain base data** | Polygon/raster | Ministry of the Interior TGOS platform | Boundary mask for constrained Monte Carlo sampling; slopes greater than 30% excluded |
