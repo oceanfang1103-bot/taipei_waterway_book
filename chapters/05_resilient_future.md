@@ -26,7 +26,7 @@ Combining GIS-based spatial analysis with a human-geographical perspective, this
 
 The principal findings are:
 
-- **Distance-decay pattern:** After adjusting point counts for distance-band width, the concentration of flood-susceptibility points generally declines with increasing distance from historic waterways, reaching 14.90 points/m in the 0–10 m band.
+- **Distance-decay pattern:** After normalizing centroid counts by distance-band width, the exploratory measure generally declines with increasing distance from historic waterways, reaching 14.90 centroids per metre of band width in the 0–10 m band.
 - **Significant spatial proximity:** In the plain-constrained Monte Carlo simulation, the observed median distance to historic waterways (125.72 m) is substantially lower than the random expectation (203.68 m; $p < 0.001$).
 
 These results support the hypothesis of **landscape memory**: although the Liugong and Wulixue canals have disappeared from the surface beneath asphalt roads, associated microtopographic structures may continue to influence the direction of water during extreme rainfall.
