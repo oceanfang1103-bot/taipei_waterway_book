@@ -3,13 +3,15 @@ name: Build and publish bilingual Jupyter Book
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -32,4 +34,5 @@ jobs:
         run: jupyter-book build .
 
       - name: Publish to gh-pages
+        if: github.event_name != 'pull_request'
         run: ghp-import -n -p -f _build/html
