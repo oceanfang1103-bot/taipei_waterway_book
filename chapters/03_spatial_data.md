@@ -1,6 +1,6 @@
 # Chapter 3 — Methods and Reconstruction of Spatial Data
 
-> **“By overlaying historical maps and present-day flood-susceptibility locations in a GIS, the concealed pattern of the former water network can be made visible again.”**
+> **“By overlaying historical maps with centroids derived from mapped flood-prone or previously inundated areas in a GIS, the concealed pattern of the former water network can be made visible again.”**
 
 ---
 
