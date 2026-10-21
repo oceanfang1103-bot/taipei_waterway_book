@@ -1,8 +1,19 @@
 format: jb-book
 root: index
-chapters:
-  - file: chapters/01_invisible_waterway.md
-  - file: chapters/02_landscape_memory.md
-  - file: chapters/03_spatial_data.md
-  - file: chapters/04_spatial_analysis.md
-  - file: chapters/05_resilient_future.md
+parts:
+  - caption: English
+    chapters:
+      - file: chapters/01_invisible_waterway.md
+      - file: chapters/02_landscape_memory.md
+      - file: chapters/03_spatial_data.md
+      - file: chapters/04_spatial_analysis.md
+      - file: chapters/05_resilient_future.md
+  - caption: 中文版
+    chapters:
+      - file: zh/index.md
+        sections:
+          - file: zh/chapters/01_invisible_waterway.md
+          - file: zh/chapters/02_landscape_memory.md
+          - file: zh/chapters/03_spatial_data.md
+          - file: zh/chapters/04_spatial_analysis.md
+          - file: zh/chapters/05_resilient_future.md

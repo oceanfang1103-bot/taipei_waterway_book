@@ -1,21 +1,26 @@
-title: "台北古水路與現代都市淹水潛勢研究"
+title: "Historic Waterways and Urban Flood Susceptibility in Taipei"
 author: "Ocean Fang"
 
 execute:
   execute_notebooks: "off"
-
-launch_buttons:
-  thebe: false
 
 exclude_patterns:
   - "venv/**"
   - ".venv/**"
   - "_build/**"
 
+repository:
+  url: "https://github.com/oceanfang1103-bot/taipei_waterway_book"
+  branch: main
+
 sphinx:
   config:
     html_extra_path: ["images"]
+    html_js_files:
+      - language-switcher.js
+    html_css_files:
+      - language-switcher.css
 
 html:
   use_issues_button: false
-  use_repository_button: false
+  use_repository_button: true
