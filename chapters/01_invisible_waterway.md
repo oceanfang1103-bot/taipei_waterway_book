@@ -33,11 +33,11 @@ The Taipei Basin once contained an extensive agricultural irrigation network, in
 
 ### 1.4 Research Question and Key Results
 
-Urban surface flooding is not solely a pipe-capacity problem. It may also reflect the interaction of landscape memory and microtopographic depressions. This study uses **geographic information systems (GIS)** and spatial statistical analysis to examine **3,022 flood-susceptibility locations** in Taipei and test whether a measurable pattern of landscape memory exists.
+Urban surface flooding is not solely a pipe-capacity problem. It may also reflect the interaction of landscape memory and microtopographic depressions. This study uses **geographic information systems (GIS)** and spatial statistical analysis to examine **3,022 **flood-area centroids** derived from polygons mapped as flood-prone or previously inundated** in Taipei and test whether a measurable pattern of landscape memory exists.
 
 | Core test | Empirical result | Geographic interpretation |
 | :--- | :--- | :--- |
-| **Standardized distance-band density** | The 0–10 m band reaches **14.90 points/m**, decreasing to **10.83 points/m** in the 60–120 m band | Flood-susceptibility locations become less concentrated with increasing distance from historic waterways, indicating a distance-decay pattern. |
-| **Monte Carlo randomization** | The observed median distance is **125.72 m**, substantially lower than the random expectation of **203.68 m** ($p < 0.001$) | The proximity of flood-susceptibility locations to historic waterways is unlikely to be explained by the specified random model alone. |
+| **Band-width-normalized point count** | The 0–10 m band reaches **14.90 points/m**, decreasing to **10.83 points/m** in the 60–120 m band | The number of centroids per metre of band width generally decreases with distance from historic waterways. This is an exploratory distance-decay indicator, not an areal density. |
+| **Monte Carlo randomization** | The observed median distance is **125.72 m**, substantially lower than the random expectation of **203.68 m** ($p < 0.001$) | The proximity of the flood-area centroids to historic waterways is unlikely to be explained by the specified random model alone. |
 
 The study investigates how microtopography inherited from historic irrigation systems may continue to influence the city and considers the implications for disaster-risk reduction and urban resilience.
