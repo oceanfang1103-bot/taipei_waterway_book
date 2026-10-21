@@ -8,8 +8,8 @@
 
 The study focuses on four districts in central and southern Taipei—Da’an, Songshan, Xinyi, and Wenshan—and applies geometric correction and vectorization to the source data.
 
-1. **Flood-susceptibility location layer (650 mm of rainfall in 24 hours)**  
-   Flood-susceptibility polygon data were obtained from Taiwan’s Water Resources Agency and the Taipei City Government. Following geometric correction, polygon centroids were extracted to produce **3,022 flood-susceptibility point locations**.
+1. **Mapped flood-area polygons and derived centroids (650 mm of rainfall in 24 hours)**  
+   Polygon data were obtained from Taiwan’s Water Resources Agency and the Taipei City Government. The polygons represent areas mapped as flood-prone under the specified rainfall scenario or areas previously recorded as inundated. Following geometric correction, the geometric centroid of each polygon was calculated, producing **3,022 flood-area centroid points** for point-based analysis. These centroids are analytical representations of mapped areas; they are not 3,022 independently observed flood incidents.
 2. **Historic-waterway vector layer**  
    Culverted historic waterway corridors were redrawn and reconstructed from historical sources, including the *Taiwan Fortress Map* (臺灣堡圖) from the Japanese colonial period and the 1939 *Map of the Liugong Irrigation Association District* (瑠公圳水利組合區域圖). Channel widths were represented as 5 m for main canals, 2 m for branches, and 1 m for minor distribution channels.
 
@@ -78,7 +78,7 @@ The study focuses on four districts in central and southern Taipei—Da’an, So
 
 #### 1. Micro-scale distance bands and standardized density
 
-The shortest geometric distance from each flood-susceptibility point to the nearest historic waterway was calculated and divided into five classes reflecting the scale of Taipei’s streets and urban blocks. To account for unequal distance-band widths, the analysis reports a width-standardized measure: the number of points divided by the width of each band.
+The shortest geometric distance from each flood-area centroid to the nearest historic waterway was calculated and divided into five classes reflecting the scale of Taipei’s streets and urban blocks. To account for unequal distance-band widths, the analysis reports a **band-width-normalized point count**: the number of centroids divided by the width of each distance band. This exploratory measure adjusts for unequal radial widths but is not an areal density. A conventional spatial-density comparison would divide the count in each non-overlapping band by that band’s land area (for example, centroids per km²).
 
 #### 2. Plain-constrained Monte Carlo simulation
 
@@ -86,4 +86,4 @@ Hillslopes with gradients greater than 30% were excluded because they are less s
 
 #### 3. Overlay analysis
 
-Risk buffers of 15 m, 30 m, and 50 m around the historic waterways were dissolved and overlaid with the flood-susceptibility points. The analysis then compared the number and proportion of points inside and outside the buffered corridors.
+Risk buffers of 15 m, 30 m, and 50 m around the historic waterways were dissolved and overlaid with the flood-area centroids. The analysis then compared the number and proportion of points inside and outside the buffered corridors.
